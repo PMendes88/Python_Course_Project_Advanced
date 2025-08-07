@@ -133,7 +133,7 @@ plt.show()
 
 ### Results
 
-![Salary Distribution for the top 6 Data Jobs in Portugal](3_Project\salary_boxplot.png)
+![Salary Distribution for the top 6 Data Jobs in Portugal](3_Project/salary_boxplot.png)
 *Box plot visualising the salary distributions for the top 6 data job titles*
 
 ### Insights
@@ -173,7 +173,7 @@ plt.show()
 ```
 
 ### Results
-![Highest Paid and Most In-Demand Skills for Data Analysts in Portugal](3_Project\Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_Portugal.png)
+![Highest Paid and Most In-Demand Skills for Data Analysts in Portugal](3_Project/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_Portugal.png)
 *Two separate bar graphs visualising the highest paid skills for Data Analysts in Portugal*
 
 ### Insights
@@ -237,7 +237,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts in Portugal with Colouring by Technology](3_Project\Most_Optimal_Skills_for_Data_Analysts_in_Portugal_with_Colouring_by_Technology.png)
+![Most Optimal Skills for Data Analysts in Portugal with Colouring by Technology](3_Project/Most_Optimal_Skills_for_Data_Analysts_in_Portugal_with_Colouring_by_Technology.png)
 *A scatter plot visaulising the most optimal skills (high paying & high demand) for data analysts in Portugal*
 
 ### Insights
