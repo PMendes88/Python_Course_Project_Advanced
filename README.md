@@ -260,7 +260,7 @@ R & Spark: Moderate salary ($100K–$110K) and demand (~10–15%). Good choices 
 - Power BI: Slightly lower salary (~$95K) but widely used in Microsoft-centric ecosystems. Still a solid ROI skill if you're in Portugal’s enterprise-heavy job market.
 
 #### Low-Value Skills (Low Demand + Lower Salary)
-- Excel: Common (~20%) but offers lower salary (~$85K). It’s still required but doesn’t add much salary leverage alone — best paired with higher-value skills.
+- Excel: Common (20%) but offers lower salary ($85K). It’s still required but doesn’t add much salary leverage alone — best paired with higher-value skills.
 
 - Go, Hadoop, SAS: Low demand and sub-$80K salaries. These tools are either misaligned with analyst roles (e.g., Go, Hadoop) or being phased out (e.g., SAS in many sectors).
 
