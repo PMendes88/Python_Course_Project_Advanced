@@ -13,16 +13,13 @@ Below are the questions I want to answer in my project:
 # Tools Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
     
-    - Python: The backbone of my analysis, allowing me to analyse the data and find critical insights. I also used the following Python libraries:
-        - Pandas: This was used to analyse the data.
-        - MatPlotLib: To visualise the data.
-        - Seaborn: Used to create more advanced visuals.
-    
-    - Jupyter Notebooks: The tool I used to run my Python scripts which let me easily include my notes and analysis.
-
-    - Visual Studio Code: My go-to for executing my Python scripts.
-
-    - Git and GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration.
+- Python: The backbone of my analysis, allowing me to analyse the data and find critical insights. I also used the following Python libraries:
+  - Pandas: This was used to analyse the data.
+  - MatPlotLib: To visualise the data.
+  - Seaborn: Used to create more advanced visuals.
+- Jupyter Notebooks: The tool I used to run my Python scripts which let me easily include my notes and analysis.
+- Visual Studio Code: My go-to for executing my Python scripts.
+- Git and GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration.
 
 
 # The Analysis
@@ -267,29 +264,23 @@ R & Spark: Moderate salary ($100K–$110K) and demand (~10–15%). Good choices 
 # What I Learned
 Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualisation. Here are a few specific things I learned:
 
-    - Advanced Python Usage: Utilising libraries such as Pandas for data manipulation, Seaborn and MatPlotLib for data visualisation, and other libraries helped me perform complex data analysis tasks more efficiently.
-
-    - Data Cleaning Importance: I learned that throrough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights derived from the data.
-
-    - Strategic Skill Analysis: The project emphasized the importance of aligning one's skills with the market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
+- Advanced Python Usage: Utilising libraries such as Pandas for data manipulation, Seaborn and MatPlotLib for data visualisation, and other libraries helped me perform complex data analysis tasks more efficiently.
+- Data Cleaning Importance: I learned that throrough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights derived from the data.
+- Strategic Skill Analysis: The project emphasized the importance of aligning one's skills with the market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
 
 # Insights
 This project provided several general insights into the data job market for analysts:
 
-    - Skill Demand and Salary Correlation: There is a clear correlation between the deman for specific skills and the salaries these skills command. Advanced and specialised skills like Python and Oracle often lead to higher salaries.
-
-    - Market Trends: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career growth in data analytics.
-
-    - Economic Value of Skills: Understanding which skills are both in-demand and well-compensated can guide data analysts in prioritizing learning to maximize their economic returns.
+- Skill Demand and Salary Correlation: There is a clear correlation between the deman for specific skills and the salaries these skills command. Advanced and specialised skills like Python and Oracle often lead to higher salaries.
+- Market Trends: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career growth in data analytics.
+- Economic Value of Skills: Understanding which skills are both in-demand and well-compensated can guide data analysts in prioritizing learning to maximize their economic returns.
 
 # Challenges I Faced
 This project was not without its challenges, but it provided good learning opportunities:
 
-    - Data Inconsistencies: Handling missing or inconsistend data entries requires careful consideration and thorough use of the techniques to ensure the integrity of the analysis.
-
-    - Complex Data Visualisation: Designing effective visual representations of complex datasets was challenging as well as conveying insights clearly and compellingly.
-
-    - Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
+- Data Inconsistencies: Handling missing or inconsistend data entries requires careful consideration and thorough use of the techniques to ensure the integrity of the analysis.
+- Complex Data Visualisation: Designing effective visual representations of complex datasets was challenging as well as conveying insights clearly and compellingly.
+- Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
 
 # Conclusion
 This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhanced my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
